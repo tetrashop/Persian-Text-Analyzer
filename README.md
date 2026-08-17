@@ -92,3 +92,8 @@ MIT License
   <sub>ساخته شده با ❤️ توسط تیم TetraShop</sub>
 </div>
 <!-- Trigger deploy: Mon Aug 17 01:47:51 +0330 2026 -->
+
+## 🌐 دیپلوی
+
+- **URL:** [https://Persian-Text-Analyzer.vercel.app](https://Persian-Text-Analyzer.vercel.app)
+- **وضعیت:** ✅ فعال
